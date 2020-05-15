@@ -1,0 +1,16 @@
+{
+  "name": "bot-ney",
+  "version": "0.0.1",
+  "description": "bot-ney",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neydow",
+  "license": "ISC"
+}
